@@ -23,6 +23,9 @@ I'm currently in my second year of Computer Engineering, exploring both front-en
 - **Web Development:** HTML, CSS, JavaScript (Learning)
 - **Back-End Basics:** Node.js, Express (Learning)
 
+- ### 🌟 Let’s Connect!
+- **[LinkedIn](https://www.linkedin.com/in/tanushka-chavan-816169318/)**
+
 ---
 > 💡 I’m always open to feedback and collaboration! Whether you’re interested in working together on a project or just want to connect, feel free to reach out.
 
