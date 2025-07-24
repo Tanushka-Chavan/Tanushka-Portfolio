@@ -2,26 +2,31 @@
 (![Profile Picture](https://raw.githubusercontent.com/Tanushka-Chavan/Tanushka-Portfolio/main/photo.jpg)
 # Hi, I'm Tanushka Chavan! 
 
-🎓 **2nd Year Computer Engineering Student**  
-🌱 **Passionate about Front-End, Back-End, and Core Coding**  
-📈 **Eager to Learn, Build Skills, and Grow My Knowledge**
 
----
 
-### About Me
+## 👩‍💻 About Me
 
-I'm currently in my second year of Computer Engineering, exploring both front-end and back-end development while solidifying my core coding skills. I’m driven by a strong desire to enhance my knowledge, collaborate on exciting projects, and gain hands-on experience. My goal is to learn new technologies and contribute meaningfully to innovative solutions.
+🎓 Third-year Computer Engineering student  
+💻 Exploring full-stack development with Java, Spring Boot, Hibernate, and JSP  
+🚀 GSSoC Contributor, building real-world open-source projects  
+📚 Consistently improving core coding skills in Java, Python, and C++  
+✨ Passionate about learning new technologies and building impactful projects
+
 
 ### 🔭 Current Goals
 
 - **Skill Enhancement:** Dive deeper into core coding principles and best practices.
 - **Tech Exploration:** Get hands-on experience with front-end (HTML, CSS, JavaScript) and back-end (Node.js, Express) technologies.
 - **Professional Growth:** Collaborate on projects and gain practical insights in web and software development.
+- Actively building **full-stack projects with Java, Spring Boot, Hibernate, and JSP** while strengthening my problem-solving skills and exploring open-source contributions through **GSSoC**. Focused on learning **clean coding practices, database integration, and Git workflows** to prepare for impactful internships and projects.
+
 
 ### 🚀 Technical Skills
-- **Languages:** [ Python, C++]
-- **Web Development:** HTML, CSS, JavaScript (Learning)
-- **Back-End Basics:** Node.js, Express (Learning)
+
+- **Languages:** Java, Python, C++
+- **Web Development:** HTML, CSS, JavaScript (Learning), JSP
+- **Back-End Development:** Spring Boot, Hibernate, Node.js, Express (Learning)
+- **Tools & Technologies:** Git, GitHub, Eclipse IDE, MySQL
 
 - ### 🌟 Let’s Connect!
 - **[LinkedIn](https://www.linkedin.com/in/tanushka-chavan-816169318/)**
